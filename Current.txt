@@ -1,8 +1,8 @@
-Application          Current Version
+Application              Current Version
 ------------------------------------------
-CustomAppsInstalled		1.0
-ModuleExporter			  1.3
-ReturnURL				      1.0
+CustomAppsInstalled      1.0
+ModuleExporter           1.3
+ReturnURL                1.0
 PageMaintenance			2.10
 CodeSearch				3.6
 ListManager				3.26
