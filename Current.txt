@@ -1,4 +1,4 @@
-Application      Current Version
+Application          Current Version
 ------------------------------------------
 CustomAppsInstalled		1.0
 ModuleExporter			  1.3
