@@ -9,7 +9,7 @@ ListManager              3.26
 TemplateManager          2.8
 EMailManager             2.0
 DeletedRecordsManager    1.5
-AsyncQueue               1.4
+AsyncQueueStatus         1.4
 FileFormatManager        1.4
 AppInstallSync           1.2
 DocumentManager          1.8
