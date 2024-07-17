@@ -7,7 +7,7 @@ PageMaintenance			2.10
 CodeSearch				3.6
 ListManager				3.26
 TemplateManager			2.8
-E-MailManager			2.0
+EMailManager			2.0
 DeletedRecordsManager	1.5
 AsyncQueue				1.4
 FileFormatManager		1.4
