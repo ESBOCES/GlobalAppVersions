@@ -40,5 +40,12 @@
     "Page":null,
     "Title":"Template List",
     "Type":"Grid"
+  },
+  {
+    "App":"E-Mail Manager",
+    "Version":"2.0",
+    "Page":null,
+    "Title":"E-Mail Queue",
+    "Type":"Grid"
   }
 ]
