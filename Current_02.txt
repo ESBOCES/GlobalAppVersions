@@ -19,5 +19,12 @@
     "Page":null,
     "Title":"Page Management",
     "Type":"Grid"
+  },
+  {
+    "App":"CodeSearch",
+    "Version":"3.6",
+    "Page":null,
+    "Title":"Search For",
+    "Type":"Form"
   }
 ]
