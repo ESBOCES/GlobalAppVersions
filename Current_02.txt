@@ -33,5 +33,12 @@
     "Page":null,
     "Title":"Select List",
     "Type":"Form"
+  },
+  {
+    "App":"Template Manager",
+    "Version":"2.8",
+    "Page":null,
+    "Title":"Template List",
+    "Type":"Grid"
   }
 ]
