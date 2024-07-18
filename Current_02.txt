@@ -21,7 +21,7 @@
     "Type":"Grid"
   },
   {
-    "App":"CodeSearch",
+    "App":"Code Search",
     "Version":"3.6",
     "Page":null,
     "Title":"Search For",
