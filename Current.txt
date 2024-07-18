@@ -15,4 +15,4 @@ AppInstallSync           1.2
 Documents                1.8
 Announcements            1.3
 QuickLinks               1.2
-PossibleHacks            1.1
+PossibleHackAttempts     1.1
