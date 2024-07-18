@@ -12,7 +12,7 @@
     "Page":null,
     "Title":null,
     "Type":"Form"
-  }
+  },
   {
     "App":"Page Maintenance",
     "Version":"1.3",
