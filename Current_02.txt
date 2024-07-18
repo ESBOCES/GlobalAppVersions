@@ -15,7 +15,7 @@
   },
   {
     "App":"Page Maintenance",
-    "Version":"1.3",
+    "Version":"2.10",
     "Page":null,
     "Title":"Page Management",
     "Type":"Grid"
