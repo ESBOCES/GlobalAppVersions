@@ -13,4 +13,11 @@
     "Title":null,
     "Type":"Form"
   }
+  {
+    "App":"Page Maintenance",
+    "Version":"1.3",
+    "Page":null,
+    "Title":"Page Management",
+    "Type":"Form"
+  }
 ]
