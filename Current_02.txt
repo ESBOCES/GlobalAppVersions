@@ -47,5 +47,12 @@
     "Page":null,
     "Title":"E-Mail Queue",
     "Type":"Grid"
+  },
+  {
+    "App":"Deleted Records Manager",
+    "Version":"2.0",
+    "Page":null,
+    "Title":"Table List",
+    "Type":"Form"
   }
 ]
