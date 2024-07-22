@@ -70,7 +70,7 @@
     "Type":"Grid"
   },
   {
-    "App":"App Install Sync",
+    "App":"App Install/Sync",
     "Version":"1.2",
     "Page":null,
     "Title":"App Install & Sync",
