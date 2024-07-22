@@ -54,5 +54,12 @@
     "Page":null,
     "Title":"Table List",
     "Type":"Form"
+  },
+  {
+    "App":"Async Queue Status",
+    "Version":"1.4",
+    "Page":null,
+    "Title":"Status Checker",
+    "Type":"Form"
   }
 ]
