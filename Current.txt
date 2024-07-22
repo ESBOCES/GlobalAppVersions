@@ -82,5 +82,26 @@
     "Page":null,
     "Title":null,
     "Type":"Grid"
+  },
+  {
+    "App":"Announcements",
+    "Version":"1.3",
+    "Page":null,
+    "Title":null,
+    "Type":"Grid"
+  },
+  {
+    "App":"QuickLinks",
+    "Version":"1.2",
+    "Page":null,
+    "Title":"Quick Links",
+    "Type":"Grid"
+  },
+  {
+    "App":"Possible Hack Attempts",
+    "Version":"1.2",
+    "Page":null,
+    "Title":"Possible Hacks",
+    "Type":"Grid"
   }
 ]
