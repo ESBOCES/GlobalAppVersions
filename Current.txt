@@ -103,5 +103,12 @@
     "Page":null,
     "Title":"Possible Hacks",
     "Type":"Grid"
+  },
+  {
+    "App":"General",
+    "Version":"1.0",
+    "Page":null,
+    "Title":null,
+    "Type":"Tokens"
   }
 ]
