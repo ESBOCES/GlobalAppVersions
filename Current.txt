@@ -105,7 +105,49 @@
     "Type":"Grid"
   },
   {
+    "App":"CDNVersions",
+    "Version":"1.0",
+    "Page":null,
+    "Title":null,
+    "Type":"Tokens"
+  },
+  {
     "App":"General",
+    "Version":"1.0",
+    "Page":null,
+    "Title":null,
+    "Type":"Tokens"
+  },
+  {
+    "App":"IsInstalled",
+    "Version":"1.0",
+    "Page":null,
+    "Title":null,
+    "Type":"Tokens"
+  },
+  {
+    "App":"MyFile",
+    "Version":"1.0",
+    "Page":null,
+    "Title":null,
+    "Type":"Tokens"
+  },
+  {
+    "App":"RURL",
+    "Version":"1.0",
+    "Page":null,
+    "Title":null,
+    "Type":"Tokens"
+  },
+  {
+    "App":"Scheduler",
+    "Version":"1.0",
+    "Page":null,
+    "Title":null,
+    "Type":"Tokens"
+  },
+  {
+    "App":"SEC",
     "Version":"1.0",
     "Page":null,
     "Title":null,
