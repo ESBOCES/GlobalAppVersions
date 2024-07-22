@@ -75,5 +75,12 @@
     "Page":null,
     "Title":"App Install & Sync",
     "Type":"Form"
+  },
+  {
+    "App":"Documents",
+    "Version":"1.8",
+    "Page":null,
+    "Title":null,
+    "Type":"Grid"
   }
 ]
