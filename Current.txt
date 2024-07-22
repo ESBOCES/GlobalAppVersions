@@ -68,5 +68,12 @@
     "Page":null,
     "Title":"File Formats",
     "Type":"Grid"
+  },
+  {
+    "App":"App Install Sync",
+    "Version":"1.2",
+    "Page":null,
+    "Title":"App Install & Sync",
+    "Type":"Form"
   }
 ]
