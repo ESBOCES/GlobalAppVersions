@@ -61,5 +61,12 @@
     "Page":null,
     "Title":"Status Checker",
     "Type":"Form"
+  },
+  {
+    "App":"File Format Manager",
+    "Version":"1.4",
+    "Page":null,
+    "Title":"File Formats",
+    "Type":"Grid"
   }
 ]
