@@ -36,14 +36,14 @@
   },
   {
     "App":"Template Manager",
-    "Version":"2.8",
+    "Version":"2.9",
     "Page":null,
     "Title":"Template List",
     "Type":"Grid"
   },
   {
     "App":"E-Mail Manager",
-    "Version":"2.0",
+    "Version":"2.1",
     "Page":null,
     "Title":"E-Mail Queue",
     "Type":"Grid"
