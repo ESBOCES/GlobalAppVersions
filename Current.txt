@@ -159,5 +159,12 @@
     "Page":null,
     "Title":null,
     "Type":"Form"
+  },
+  {
+    "App":"MFA Login",
+    "Version":"1.1",
+    "Page":null,
+    "Title":null,
+    "Type":"Form"
   }
 ]
