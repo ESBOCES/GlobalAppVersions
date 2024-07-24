@@ -164,7 +164,7 @@
     "App":"MFA Login",
     "Version":"1.1",
     "Page":null,
-    "Title":null,
+    "Title":"Login Form",
     "Type":"Form"
   }
 ]
