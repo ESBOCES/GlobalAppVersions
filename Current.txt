@@ -29,7 +29,7 @@
   },
   {
     "App":"List Manager",
-    "Version":"3.26",
+    "Version":"3.27",
     "Page":null,
     "Title":"Select List",
     "Type":"Form"
