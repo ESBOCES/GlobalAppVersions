@@ -8,7 +8,7 @@
   },
   {
     "App":"Modules Exporter",
-    "Version":"1.3",
+    "Version":"1.4",
     "Page":null,
     "Title":null,
     "Type":"Form"
