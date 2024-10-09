@@ -36,7 +36,7 @@
   },
   {
     "App":"Template Manager",
-    "Version":"2.9",
+    "Version":"2.10",
     "Page":null,
     "Title":"Template List",
     "Type":"Grid"
