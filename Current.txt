@@ -78,7 +78,7 @@
   },
   {
     "App":"Documents",
-    "Version":"1.12",
+    "Version":"1.13",
     "Page":null,
     "Title":null,
     "Type":"Grid"
