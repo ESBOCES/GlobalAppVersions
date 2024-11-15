@@ -71,7 +71,7 @@
   },
   {
     "App":"App Install/Sync",
-    "Version":"1.4",
+    "Version":"1.5",
     "Page":null,
     "Title":"App Install & Sync",
     "Type":"Form"
