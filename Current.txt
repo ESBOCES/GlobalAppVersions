@@ -71,14 +71,14 @@
   },
   {
     "App":"App Install/Sync",
-    "Version":"1.2",
+    "Version":"1.4",
     "Page":null,
     "Title":"App Install & Sync",
     "Type":"Form"
   },
   {
     "App":"Documents",
-    "Version":"1.11",
+    "Version":"1.12",
     "Page":null,
     "Title":null,
     "Type":"Grid"
@@ -91,7 +91,7 @@
     "Type":"Grid"
   },
   {
-    "App":"QuickLinks",
+    "App":"Quick Links",
     "Version":"1.2",
     "Page":null,
     "Title":"Quick Links",
