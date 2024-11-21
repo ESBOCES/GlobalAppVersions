@@ -92,7 +92,7 @@
   },
   {
     "App":"Quick Links",
-    "Version":"1.5",
+    "Version":"1.6",
     "Page":null,
     "Title":"Quick Links",
     "Type":"Grid"
