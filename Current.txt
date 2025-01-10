@@ -1,7 +1,7 @@
 [
   {
     "App":"Custom Apps Installed",
-    "Version":"1.1-222",
+    "Version":"1.1",
     "Page":null,
     "Title":null,
     "Type":"Grid"
